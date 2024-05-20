@@ -1,0 +1,450 @@
+{
+  "A1": {
+    "1": {
+      "question": "I (...) 17 years old.",
+      "options": {
+        "is": "1",
+        "are": "2",
+        "am": "3",
+        "have": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://upupenglish.ru/am-is-are/"
+    },
+    "2": {
+      "question": "My name (...) Gwidon.",
+      "options": {
+        "is": "1",
+        "says": "2",
+        "have": "3",
+        "are": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "https://upupenglish.ru/am-is-are/"
+    },
+    "3": {
+      "question": "Please (...) careful!",
+      "options": {
+        "he": "1",
+        "has": "2",
+        "be": "3",
+        "are": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://upupenglish.ru/am-is-are/"
+    },
+    "4": {
+      "question": "Hello! How (...) you?",
+      "options": {
+        "is": "1",
+        "are": "2",
+        "am": "3",
+        "their": "4"
+      },
+      "correct_answer": "2",
+      "keyword": "https://upupenglish.ru/am-is-are/"
+    },
+    "5": {
+      "question": "What are you (...)?",
+      "options": {
+        "do": "1",
+        "did": "2",
+        "have": "3",
+        "doing": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "https://puzzle-english.com/directory/englishverbs"
+    },
+    "6": {
+      "question": "I saw four (...) in train station.",
+      "options": {
+        "boy": "1",
+        "ball": "2",
+        "girl": "3",
+        "girls": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "https://skysmart.ru/articles/english/mnozhestvennoe-chislo-sushestvitelnyh-v-anglijskom-yazyke"
+    },
+    "7": {
+      "question": "He (...) like football.",
+      "options": {
+        "have": "1",
+        "had": "2",
+        "don't": "3",
+        "doesn't ": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "https://puzzle-english.com/directory/present-simple"
+    },
+    "8": {
+      "question": "A cat is sleeping (...) the sidewalk.",
+      "options": {
+        "hedgehog": "1",
+        "under": "2",
+        "on": "3",
+        "in": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://foxford.ru/wiki/angliyskiy-yazyk/predlogi-mesta-prepositions-of-place?utm_referrer=https%3A%2F%2Fyandex.ru%2F"
+    },
+    "9": {
+      "question": "She (...) a beautiful woman!",
+      "options": {
+        "is": "1",
+        "are": "2",
+        "am": "3",
+        "their": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "https://upupenglish.ru/am-is-are/"
+    },
+    "10": {
+      "question": "my (...) is very prickly.",
+      "options": {
+        "team": "1",
+        "hedgehog": "2",
+        "money": "3",
+        "pillow": "4"
+      },
+      "correct_answer": "2",
+      "keyword": "It's just necessary to know"
+    }
+  },
+  "A2": {
+    "1": {
+      "question": "they live 2 kilometers (...) the bus stop.",
+      "options": {
+        "outside": "1",
+        "around": "2",
+        "from": "3",
+        "under": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://puzzle-english.com/directory/prepositions-of-direction"
+    },
+    "2": {
+      "question": "The weather is just (...), let's stay at home.",
+      "options": {
+        "excellent": "1",
+        "cool": "2",
+        "terrible": "3",
+        "perfect": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "vocabulary"
+    },
+    "3": {
+      "question": "I (...) my passport. Do you know where he is?",
+      "options": {
+        "lose": "1",
+        "find": "2",
+        "destroyed": "3",
+        "arson": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "vocabulary"
+    },
+    "4": {
+      "question": "If we're not here, we'll be back (...).",
+      "options": {
+        "later": "1",
+        "in advance": "2",
+        "already": "3",
+        "just": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "vocabulary"
+    },
+    "5": {
+      "question": "Many (...) visit Paris every year.",
+      "options": {
+        "hedgehogs": "1",
+        "sellers": "2",
+        "buyers": "3",
+        "tourists": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "vocabulary"
+    },
+    "6": {
+      "question": "I (...) a beautiful umbrella.",
+      "options": {
+        "has": "1",
+        "was": "2",
+        "were": "3",
+        "have": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "https://langformula.ru/english-grammar/has-have/"
+    },
+    "7": {
+      "question": "It's raining outside! Don't worry, I have an (...).",
+      "options": {
+        "cucumber": "1",
+        "track": "2",
+        "umbrella": "3",
+        "chimp": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "vocabulary"
+    },
+    "8": {
+      "question": "This project will (...) the best!",
+      "options": {
+        "be": "1",
+        "was": "2",
+        "will": "3",
+        "were": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "vocabulary"
+    },
+    "9": {
+      "question": "She (...) a beautiful woman!",
+      "options": {
+        "is": "1",
+        "are": "2",
+        "am": "3",
+        "their": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "verb forms"
+    },
+    "10": {
+      "question": "I have (...) amazing team!",
+      "options": {
+        "on": "1",
+        "the": "2",
+        "an": "3",
+        "in": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://foxford.ru/wiki/angliyskiy-yazyk/predlogi-vremeni-at-in-on-prepositions-of-time-at-in-on?utm_referrer=https%3A%2F%2Fyandex.ru%2F"
+    }
+  },
+  "B1": {
+    "1": {
+      "question": "While I (...) the project, my mother (...) me tea.",
+      "options": {
+        "were doing, brought": "1",
+        "was doing, brought": "2",
+        "do, brought": "3",
+        "was doing, was brought": "4"
+      },
+      "correct_answer": "2",
+      "keyword": "https://puzzle-english.com/directory/pastsimplecont"
+    },
+    "2": {
+      "question": "While I (...) home, a car (...) next to me.",
+      "options": {
+        "was walking, was driving": "1",
+        "were walking, was driving": "2",
+        "walk, was driving": "3",
+        "was walking, drive": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "https://puzzle-english.com/directory/pastsimplecont"
+    },
+    "3": {
+      "question": "It's cold in here, I (...) open the window.",
+      "options": {
+        "will": "1",
+        "would": "2",
+        "an going to": "3",
+        "am": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "https://puzzle-english.com/directory/future-simple"
+    },
+    "4": {
+      "question": "I (...) conquer the world!",
+      "options": {
+        "going to": "1",
+        "will": "2",
+        "am going to": "3",
+        "would": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://puzzle-english.com/directory/future-simple"
+    },
+    "5": {
+      "question": "This lesson (...) start soon.",
+      "options": {
+        "would": "1",
+        "was going to": "2",
+        "have": "3",
+        "will": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "https://puzzle-english.com/directory/future-simple"
+    },
+    "6": {
+      "question": "I have (...) friends.",
+      "options": {
+        "much": "1",
+        "be": "2",
+        "was": "3",
+        "many": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "https://skysmart.ru/articles/english/much-many-lot"
+    },
+    "7": {
+      "question": "I have (...) money.",
+      "options": {
+        "cucumber": "1",
+        "be": "2",
+        "much": "3",
+        "many": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://skysmart.ru/articles/english/much-many-lot"
+    },
+    "8": {
+      "question": "Your learning would be more productive if you (...) regularly",
+      "options": {
+        "studied": "1",
+        "would study": "2",
+        "had studied": "3",
+        "was studying": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "https://puzzle-english.com/directory/verbtenses"
+    },
+    "9": {
+      "question": "Our team (...) since the beginning of its creation.",
+      "options": {
+        "been great": "1",
+        "has been great": "2",
+        "great": "3",
+        "has great": "4"
+      },
+      "correct_answer": "2",
+      "keyword": "https://puzzle-english.com/directory/present-perfect-continuous"
+    },
+    "10": {
+      "question": "(...) you believed in us from the very beginning of our journey?",
+      "options": {
+        "had": "1",
+        "do": "2",
+        "have": "3",
+        "did": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://skysmart.ru/articles/english/tipy-voprosov-v-anglijskom-yazyke"
+    }
+  },
+  "B2": {
+    "1": {
+      "question": "A Motorbike (...) a car",
+      "options": {
+        "doesn’t cost so much as": "1",
+        "doesn’t cost much as": "2",
+        "doesn’t cost much than": "3",
+        "is not as expensive as": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "https://easyspeak.ru/blog/vsyo-o-grammatike/ispolzovanie-sravnitelnyh-konstrukcij-as-as-i-not-as-as-v-anglijskom-yazyke"
+    },
+    "2": {
+      "question": "Don't forget (...) your dad on his birthday.",
+      "options": {
+        "called": "1",
+        "call": "2",
+        "to call": "3",
+        "calling": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://puzzle-english.com/directory/verbtenses"
+    },
+    "3": {
+      "question": "How long (...) a repository on the git hub?",
+      "options": {
+        "have you been creating": "1",
+        "have you been created": "2",
+        "have you was creating": "3",
+        "had you been creating": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "https://puzzle-english.com/directory/how-to-use-ppc"
+    },
+    "4": {
+      "question": "He told us that he (...) turn 30 next December, as he will be (...) as a programmer.",
+      "options": {
+        "would, working ": "1",
+        "will, working": "2",
+        "will, worked": "3",
+        "will be, working": "4"
+      },
+      "correct_answer": "2",
+      "keyword": "https://puzzle-english.com/directory/future-simple"
+    },
+    "5": {
+      "question": "I (...) know him, a very long time ago.",
+      "options": {
+        "used to do": "1",
+        "use to": "2",
+        "used to": "3",
+        "use to do": "4"
+      },
+      "correct_answer": "3",
+      "keyword": "https://skyeng.ru/articles/used-to/"
+    },
+    "6": {
+      "question": "Would you (...) a campfire on the beach?",
+      "options": {
+        "make": "1",
+        "made": "2",
+        "cook": "3",
+        "making": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "vocabulary"
+    },
+    "7": {
+      "question": "(...) walked the beaten path?",
+      "options": {
+        "Have you ever": "1",
+        "Had you ever": "2",
+        "Have you never": "3",
+        "Had you never": "4"
+      },
+      "correct_answer": "1",
+      "keyword": "https://tonail.com/konstrukciya-have-you-ever/"
+    },
+    "8": {
+      "question": "If I (...), I wouldn't do that.",
+      "options": {
+        "was like you": "1",
+        "were like you": "2",
+        "was you": "3",
+        "were you": "4"
+      },
+      "correct_answer": "4",
+      "keyword": "https://langformula.ru/english-grammar/conditional/"
+    },
+    "9": {
+      "question": "If I (...), I'd live on Mars.",
+      "options": {
+        "was like you": "1",
+        "were you": "2",
+        "were like you": "3",
+        "was you": "4"
+      },
+      "correct_answer": "2",
+      "keyword": "https://langformula.ru/english-grammar/conditional/"
+    },
+    "10": {
+      "question": "(...) you (...) loved?",
+      "options": {
+        "Has, ewer": "1",
+        "Have, ewer ": "2",
+        "Do, ewer": "3",
+        "Did, ewer": "4"
+      },
+      "correct_answer": "2",
+      "keyword": "vocabulary"
+    }
+  }
+}
